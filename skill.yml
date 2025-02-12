@@ -1,15 +1,6 @@
 Test:
-Conditions:
-- sprinting castinstead condition_u1ap0h
-- onground castinstead condition_0k9i6o
-- onground orelsecast else_condition_5s9nuh
-Skills:
-
-condition_u1ap0h:
   Skills:
-
-condition_0k9i6o:
-  Skills:
-
-else_condition_5s9nuh:
-  Skills:
+  - msg{m=hi} @self
+  - msg{m=hi} @self
+  - msg{m=hi} @self
+  - msg{m=hi} @self
